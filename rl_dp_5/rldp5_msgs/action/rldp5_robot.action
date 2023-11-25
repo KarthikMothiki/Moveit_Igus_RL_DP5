@@ -1,0 +1,10 @@
+# Goal
+string command
+
+---
+# Result
+string success
+
+---
+# Feedback
+float64[] status
